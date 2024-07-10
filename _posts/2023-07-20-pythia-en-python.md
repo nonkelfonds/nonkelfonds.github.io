@@ -1,5 +1,5 @@
 ---
-date: 2024-07-20
+date: 2023-07-20
 title: Pythia en Python
 categories:
   - Robo-Advisory Post Mortem Pt. 1

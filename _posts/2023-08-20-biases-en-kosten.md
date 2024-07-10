@@ -1,5 +1,5 @@
 ---
-date: 2024-08-20
+date: 2023-08-20
 title: Biases en Kosten
 categories:
   - Robo-Advisory Post Mortem Pt. 2
