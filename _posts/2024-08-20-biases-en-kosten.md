@@ -1,10 +1,9 @@
 ---
-date: 2020-07-28
-title: Effective upselling techniques
+date: 2024-08-20
+title: Biases en Kosten
 categories:
-  - sales
-  - tips
-author_staff_member: betty
+  - Robo-Advisory Post Mortem Pt. 2
+author_staff_member: emiel
 ---
 
 Upselling is a sales technique whereby a seller induces the customer to purchase more expensive items, upgrades or other add-ons in an attempt to make a more profitable sale. While it usually involves marketing more profitable services or products, it can be simply exposing the customer to other options that were perhaps not considered.
