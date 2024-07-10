@@ -13,4 +13,4 @@
 - name: Login
   link: /
   new_window: true
-  highlight: false
+  highlight: true
