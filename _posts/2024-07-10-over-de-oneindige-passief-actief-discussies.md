@@ -9,6 +9,8 @@ author_staff_member: emiel
 
 Sommigen zullen argumenteren dat ETF strategieën ook hun passive investing risico’s hebben, dat het extra volatiliteit creëert door herding behavior of kuddegedrag van investeerders. Zij hebben gelijk. Dat klopt, volgens sommige papers. Dit zou mogelijkse inefficiënties of mispricings in de markt creëeren. Dat zou ook kunnen kloppen. 
 
+![Herding](https:\\nonkelfonds.github.io/images/herd-photo-679869.jpeg)
+
 Maar wat is het punt? 
 
 Het is een feit dat de spread tussen de SPX (de S&P500) en de SPW (de gelijkgewogen in plaats van market cap gewogen) zeer sterk gestegen is, wat wijst op een hausse die door slechts enkele mogelijks overgewaardeerde aandelen gedreven wordt, wat concentratierisicos creëert. Maar het verschil tussen economen die dit opmerken en investeerders is het oude adagium: 
