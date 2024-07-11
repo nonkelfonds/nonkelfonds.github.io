@@ -16,6 +16,7 @@
 		{% if link.link == "/platform/" %}
 			{% if not link.link == page.url%}
 				<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+			{% endif %}
 		{% endif %}
 	{% endfor %}
 </nav>
