@@ -1,6 +1,6 @@
 ---
 date: 2024-07-08
-title: Nonkel Fonds, familiaal advies zonder conflicts of interest
+title: Nonkel Fonds, informatie en inzicht zonder conflicts of interest
 categories:
   - Robo-Advisory Post Mortem Pt. 3
 author_staff_member: emiel
