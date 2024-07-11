@@ -2,7 +2,7 @@
 date: 2024-07-10
 title: Over de oneindige passief-versus-actief discussies
 categories:
-  - Manifesto
+  - Post scriptum bij de post mortem
 author_staff_member: emiel
 ---
 

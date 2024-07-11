@@ -2,7 +2,7 @@
 date: 2024-07-08
 title: Nonkel Fonds, informatie en inzicht zonder conflicts of interest
 categories:
-  - Robo-Advisory Post Mortem Pt. 3
+  - Robo-Advisory Post Mortem Pt. 4
 author_staff_member: emiel
 ---
 

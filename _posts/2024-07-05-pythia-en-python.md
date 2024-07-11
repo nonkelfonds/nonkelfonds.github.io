@@ -2,7 +2,7 @@
 date: 2024-07-05
 title: Pythia en Python
 categories:
-  - Robo-Advisory Post Mortem Pt. 1
+  - Robo-Advisory Post Mortem Pt. 2
 author_staff_member: emiel
 ---
 
