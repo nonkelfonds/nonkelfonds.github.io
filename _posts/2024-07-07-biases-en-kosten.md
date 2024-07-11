@@ -8,6 +8,8 @@ author_staff_member: emiel
 
 Een belangrijk punt wat bij de post mortems van o.a. Matti en Lucy lijkt vergeten te zijn is het effect dat algoritmisch investeren heeft op de biases en kosten van particuliere beleggers. De afgelopen jaren is er veel empirisch onderzoek verschenen naar de samenstelling van de portefeuille van particuliere versus professionele beleggers en hun trading gedrag (bijvoorbeeld deze survey). 
 
+![Roboinvesting](https:\\nonkelfonds.github.io/images/robot-photo-8438918.webp)
+
 ## Biases
 De resultaten zijn unaniem. Het verschil zit hem in het woord systematisch investeren. De typische retail portefeuille zit geconcentreerd in enkele “goedkope aandelen” (Buffet-style, down -50% en al jaren zo), Forex paren die niet bewegen, obligaties die misfits zijn met hun risicoprofiel,… Wanneer de systematiek in slimme code is gegoten en expliciet gemaakt en alle stylized principes van investeren (d.w.z. voorgenoemde diversificatie, risicomanagement, etc.) trouw is gebleven, dan verdwijnen automatisch vele van de psychologische vertekeningen waaraan de retailbelegger lijdt:
 
