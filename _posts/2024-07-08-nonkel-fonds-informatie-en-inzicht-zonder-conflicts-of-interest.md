@@ -22,9 +22,9 @@ In conclusie, wij zouden dus iedereen een goede roboadvisor willen aanraden in B
 ![RoboEcosysteem](https:\\nonkelfonds.github.io/images/robo_overview.png)
 ![RoboAUM](https:\\nonkelfonds.github.io/images/robo_aum.png)
 
-Het verschil in die landen is dat retailbeleggers sneller hun weg vinden naar B2C roboadvisory, terwijl in België de banken zelf met oplossingen kwamen die eigenlijk hun klassieke beleggingen - a.k.a. dure fondsen - kannibaliseerde. 
+Het verschil in die landen is dat retailbeleggers sneller hun weg vinden naar B2C roboadvisory, terwijl in België de banken zelf met oplossingen kwamen die eigenlijk hun klassieke beleggingen - a.k.a. dure fondsen - kannibaliseerde. Dat is ook een algemene wijsheid in finance: identificeer eerst mogelijke conflicts of interest. Zijn de belangen van de persoon die je adviseert (of die de robot programmeert die je advies geeft) voldoende in lijn met de jouwe? Of zijn zijn of haar incentives vooral commissies innen? Dat is de reden waarom we nooit een cent zouden willen voor deze informatie of strategieën. Inzicht is veel waardevoller dan ontzorging. Want zij die je financieel willen ontzorgen zijn misschien volume- of commissiegedreven (denk aan je bank of broker). Vaak is hun "nieuws" of product geen signaal maar ruis, of zelfs het omgekeerde van wat je op dat moment nodig hebt.
 
-Een alternatief hiervoor zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategieën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als [justETF.com](http://justetf.com/)), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
+Een alternatief zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategieën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als [justETF.com](http://justetf.com/)), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
 
 Dat is de ambitie van Nonkel Fonds. 
 
