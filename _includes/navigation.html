@@ -10,7 +10,7 @@
 		{% if link.link == page.url %}
 			{% assign class = class | append: " active" %}
 		{% endif %}
-		{% if !(link.link == "/platform/" && link.link == page.url) %}
+		{% if not (link.link == "/platform/" and link.link == page.url) %}
 			<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
 		{% endif %}
 	{% endfor %}
