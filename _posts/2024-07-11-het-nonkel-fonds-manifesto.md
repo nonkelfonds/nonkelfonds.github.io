@@ -16,7 +16,7 @@ We verschaffen gratis informatie die mensen moet doen kritisch nadenken over inv
 
 ### Regel 2
 
-We zetten niets op de website waar we zelf niet in investeren. Dit wil zeggen dat we zowel de vruchten als de mogelijke downside van de strategiën zelf ervaren. Skin in the game dus. 
+We zetten niets op de website waar we zelf niet in investeren. Dit wil zeggen dat we zowel de vruchten als de mogelijke downside van de strategieën zelf ervaren. Skin in the game dus. 
 
 > Accept both your profits and regrets. It is best to seize what comes to hand when it comes, and not expect that your good fortune and the favourable circumstances will last. Profit in the share market is goblin treasure: at one moment, it is carbuncles, the next it is coal; one moment diamonds, and the next pebbles. Sometimes, they are the tears that Aurora leaves on the sweet morning's grass, at other times, they are just tears.
 

@@ -19,9 +19,12 @@ Als je in aandelen wilt investeren had je 5 opties: je maakt een account aan bij
 
 In conclusie, wij zouden dus iedereen een goede roboadvisor willen aanraden in België, mocht die bestaan. Er zijn uitstekende platformen (de Duitse website Brokervergleich legt ze periodiek naast elkaar) in de wereld, maar de meeste zijn niet toegankelijk vanuit de Belgische markt. In landen met een algemeen hoger aandelenbezit zoals de Verenigde Staten zijn er niet een paar roboadvisors, er is een heel ecosysteem met een gestaag groeiend AUM.
 
+![RoboEcosysteem](https:\\nonkelfonds.github.io/images/robo_overview.png)
+![RoboAUM](https:\\nonkelfonds.github.io/images/robo_aum.png)
+
 Het verschil in die landen is dat retailbeleggers sneller hun weg vinden naar B2C roboadvisory, terwijl in België de banken zelf met oplossingen kwamen die eigenlijk hun klassieke beleggingen - a.k.a. dure fondsen - kannibaliseerde. 
 
-Een alternatief hiervoor zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategiën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als justETF.com), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
+Een alternatief hiervoor zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategieën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als justETF.com), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
 
 Dat is de ambitie van Nonkel Fonds. 
 
