@@ -7,7 +7,9 @@ author_staff_member: emiel
 ---
 
 
-Nonkel Fonds zag het licht in de zomer van 2024. Verschillende Belgische automatische investeringsrobots oftewel roboadvisors, zoals Matti van KBC en Lucy van BNP Paribas Fortis, legden het loodje en klanten werden de facto naar actieve fondsen verwezen. Een degelijke post mortem werd niet gemaakt. Passief investeren, een mandje van financiële instrumenten of index volgen in plaats van daarvan afwijken met individuele instrumenten, leek ons de dominante narratief in investeren maar het bleek in België niet de dominante manier van beleggen wanneer men de beleggers in exchange traded funds (ETFs) of trackers t.o.v. individuele aandelen vergelijkt. Rond diezelfde periode publiceerde de FSMA (de Belgische financiële waakhond) een rapport met een update over de rendementen van actieve fondsen in ons land en het verschil tussen de bruto- en netto-rendementen. Dit rapport was ondubbelzinnig over de slack in de fondsenindustrie. 
+Nonkel Fonds zag het licht in de zomer van 2024. Verschillende Belgische automatische investeringsrobots oftewel roboadvisors, zoals Matti van KBC en Lucy van BNP Paribas Fortis, legden het loodje en klanten werden de facto naar actieve fondsen verwezen. Een degelijke post mortem werd niet gemaakt. 
+
+Passief investeren, een mandje van financiële instrumenten of index volgen in plaats van daarvan afwijken met individuele instrumenten, leek ons de dominante narratief in investeren maar het bleek in België niet de dominante manier van beleggen wanneer men de beleggers in exchange traded funds (ETFs) of trackers t.o.v. individuele aandelen vergelijkt. Rond diezelfde periode publiceerde de FSMA (de Belgische financiële waakhond) een rapport met een update over de rendementen van actieve fondsen in ons land en het verschil tussen de bruto- en netto-rendementen. Dit rapport was ondubbelzinnig over de slack in de fondsenindustrie. 
 
 ![De Tijd](https:\\nonkelfonds.github.io/images/DeTijd.png)
 

@@ -1,35 +1,22 @@
 ---
-date: 2023-09-01
+date: 2024-07-09
 title: Het Nonkel Fonds Manifesto
 categories:
   - Manifesto
 author_staff_member: emiel
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
+Het Nonkel Fonds Manifesto: onze kernwaarden in 3 simpele regels.
 
-![Checkmate](https://source.unsplash.com/random/1500x1145)
+### Regel 1
 
-## Textbook definition
+We verschaffen gratis informatie die mensen moet doen kritisch nadenken over investeren versus je spaargeld in cash aanhouden; over sparen, aandelen, fondsen versus combinaties van ETFs. Dit is geen beleggingsadvies (koop nu dit, en doe nu dat), maar informatie verschaffen. Vergeet nooit: eerst (1) informatie, dan (2) inzicht, dan pas (3) actie. Blind overgaan tot actie op basis van informatie zonder zelf inzicht te hebben is onverantwoord en financiële kamikaze. “Never advise anyone to buy or sell shares. Where guessing correctly is a form of witchcraft, counsel cannot be put on airs.”
 
-A textbook definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."
+### Regel 2
 
-## How effective is direct selling?
+We zetten niets op de website waar we zelf niet in investeren. Dit wil zeggen dat we zowel de vruchten als de mogelijke downside van de strategiën zelf ervaren. Skin in the game dus. “Accept both your profits and regrets. It is best to seize what comes to hand when it comes, and not expect that your good fortune and the favourable circumstances will last. Profit in the share market is goblin treasure: at one moment, it is carbuncles, the next it is coal; one moment diamonds, and the next pebbles. Sometimes, they are the tears that Aurora leaves on the sweet morning's grass, at other times, they are just tears.”
 
-Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
+### Regel 3 
 
-![Office](https://source.unsplash.com/random/1500x1146)
+De weg naar financiële groei en onafhankelijkheid is geen roboadviseur alleen, maar eerder minder uitgeven en/of meer laten binnenkomen per maand en wat je dan extra overhoudt daarna verstandig investeren met een roboadviseur. Je wordt rijk van het geld dat je niet uitgeeft. Kapitalisme gaat niet om 100 euro of 1000 euro hebben “at T”, het gaat om 100 euro ruilen voor 5 euro per jaar, die elk jaar “at [T+1, T+2,…]” kan aangroeien mits een geloof in de productiviteit en innovatievermogen van mensen. “He who wishes to become rich from this game must have both money and patience.”
 
-According to the WFDSA, consumers benefit from direct selling because of the convenience and service it provides, including personal demonstration and explanation of products, home delivery, and generous satisfaction guarantees. In contrast to franchising, the cost for an individual to start an independent direct selling business is typically very low with little or no required inventory or other cash commitments to begin.
-
-Most direct selling associations around the world require their members to abide by a code of conduct towards a fair partnership both with customers and salesmen...
-
-Most national direct selling associations are represented in the World Federation of Direct Selling Associations (WFDSA).
-
-## How's it different to marketing?
-
-Direct selling is distinct from direct marketing because it is about individual sales agents reaching and dealing directly with clients. Direct marketing is about business organizations seeking a relationship with their customers without going through an agent/consultant or retail outlet.
-
-Direct selling consists of two main business models: single-level marketing, in which a direct seller makes money by buying products from a parent organization and selling them directly to customers, and multi-level marketing (also known as network marketing or person-to-person marketing), in which the direct seller makes money from both direct sales to customers and by sponsoring new direct sellers and earning a commission from their efforts.
-
-![Raspberries](https://source.unsplash.com/random/1500x1147)
