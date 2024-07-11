@@ -18,4 +18,4 @@ Een post mortem was nodig. Waren deze “robots” een misnomer in een periode v
 
 ![FSMA](https:\\nonkelfonds.github.io/images/FSMA.png)
 
-Bij Nonkel Fonds proberen we deze vragen met onze gezamelijkse financiële kennis te beantwoorden. In de volgende posts gaan we stap per stap over deze topics.
+Bij Nonkel Fonds proberen we deze vragen met onze gezamelijke financiële kennis en in toegankelijke taal te beantwoorden. In de volgende posts gaan we stap per stap over deze topics.
