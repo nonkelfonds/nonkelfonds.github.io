@@ -1,6 +1,6 @@
 ---
 date: 2024-07-07
-title: Biases en Kosten
+title: Biases en kosten
 categories:
   - Robo-Advisory Post Mortem Pt. 3
 author_staff_member: emiel
