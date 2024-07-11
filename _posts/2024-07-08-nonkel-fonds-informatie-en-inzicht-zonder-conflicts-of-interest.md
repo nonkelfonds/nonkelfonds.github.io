@@ -32,4 +32,4 @@ Passief investeren wekt de indruk dat men geen keuzes moet maken en dat alle pas
 
 Onze missie is het formaliseren van de pater familias regels van investeren en zo de fouten - in deze blog uitvoerig beschreven - te vermijden en dit in volle transparantie - open source - om zo informatie te verschaffen aan eenieder die met dezelfde vragen zit en kritische inzichten wil verwerven op sparen versus investeren per ons manifesto.
 
-Lees in de volgende post meer over ons manifesto!
+Lees in [onze meest recente post](https://nonkelfonds.github.io/manifesto/2024/07/11/het-nonkel-fonds-manifesto/) meer over ons manifesto!
