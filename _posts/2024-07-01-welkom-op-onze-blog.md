@@ -14,6 +14,6 @@ Nonkel Fonds zag het licht in de zomer van 2024. Verschillende Belgische automat
 Een post mortem was nodig. Waren deze “robots” een misnomer in een periode van AI hype? Meer artificieel dan intelligent? Hebben investeringsrobots echt niks te bieden en zijn ze enerzijds te complex voor wie geen financiële kennis heeft en totaal financieel ontzorgd wil worden en anderzijds te eenvoudig voor wie financiële kennis heeft en reeds investeert in aandelen en ETFs en houden zij liever volledige autonomie over hun portefeuille?
 
 
-![FSMA]](https:\\nonkelfonds.github.io/images/FSMA.png)
+![FSMA](https:\\nonkelfonds.github.io/images/FSMA.png)
 
 Bij Nonkel Fonds proberen we deze vragen met onze gezamelijkse financiële kennis te beantwoorden. In de volgende posts gaan we stap per stap over deze topics.
