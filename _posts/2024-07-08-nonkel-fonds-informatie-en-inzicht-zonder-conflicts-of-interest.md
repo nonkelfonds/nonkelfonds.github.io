@@ -24,7 +24,7 @@ In conclusie, wij zouden dus iedereen een goede roboadvisor willen aanraden in B
 
 Het verschil in die landen is dat retailbeleggers sneller hun weg vinden naar B2C roboadvisory, terwijl in België de banken zelf met oplossingen kwamen die eigenlijk hun klassieke beleggingen - a.k.a. dure fondsen - kannibaliseerde. 
 
-Een alternatief hiervoor zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategieën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als justETF.com), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
+Een alternatief hiervoor zijn geoptimaliseerde modelportefeuilles van ETFs waar je gratis en gemakkelijk toegang hebt tot de objectieven van de strategieën, het universum van ETFs, de samenstelling en de performance van de portefeuilles, waar je naast de kerninfo van ETFs (te vinden op sites als [justETF.com](http://justetf.com/)), ook wegingen kunt vergelijken en vooral de impact van verschillende wegingen kunt zien op de multi-year performance van dezelfde set ETFs.
 
 Dat is de ambitie van Nonkel Fonds. 
 
