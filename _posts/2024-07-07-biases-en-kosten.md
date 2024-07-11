@@ -46,7 +46,7 @@ Ik had het in de inleiding over slack. Als je je afvroeg of de investeringsinfra
 
 Het argument dat roboadvisors daarom relatief duur waren en daardoor afgevoerd is je reinste onzin en een vorm van financiële geschiedsvervalsing, want dat was net één van de redenen waarom roboadvisors er kwamen: het investeren in low-cost ETFs en het poolen van verschillende roboadvisor klanten die dezelfde ETFs kopen in “blockorders” om transactiekosten te delen, als het ware een groepsaankoop van ETFs. Het gebrek aan AUM - assets under management - waardoor de roboadvisors afgesloten werden, lijkt me veel eerder een zuiver allocatie of gross performance issue dan wel een kostenissue (gross vs net) te zijn.
 
-![LinkedIn](linkedin.png)
+![LinkedIn](https:\\nonkelfonds.github.io/images/linkedin.png)
 
 Natuurlijk vroegen vermelde roboadvisors een management fee (+-1% all-in, dus incl transactiekosten en bewaarlonen - geen in- of uitstap) en kan dat duurder zijn dan zelf je ETFs kopen, men moet dan vergelijken met transactiekosten. Maar dan moet je wel zelf al je trades plaatsen, transactiekosten betalen en zorgen dat het goedkoper is dan 1% op jaarbasis, en natuurlijk ook het kiezen welke ETFs voor jouw rekening nemen en in welke weging, koopstrategie, opvolging, etc. Dan ben jij verantwoordelijk dat de ETFs, de weging en de inlegstrategie je minder dan 1% per jaar kost t.o.v. een systematische strategie, m.a.w. alle vraagstukken van de afgelopen twee secties. De vraag is ook - zelfs uitgaande van identieke performance - of die tijd en moeite (informatie verzamelen, vergelijkende websites gebruiken, etc.) het verschil tussen jouw transactiekosten en 1% fee voor de roboadvisor rechtvaardigt. 
 
