@@ -11,6 +11,6 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: /platform/
   new_window: true
   highlight: true
