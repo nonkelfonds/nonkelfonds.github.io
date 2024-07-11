@@ -6,7 +6,7 @@ categories:
 author_staff_member: emiel
 ---
 
-Een belangrijk punt wat bij de post mortems van o.a. Matti en Lucy lijkt vergeten te zijn is het effect dat algoritmisch investeren heeft op de biases en kosten van particuliere beleggers. De afgelopen jaren is er veel empirisch onderzoek verschenen naar de samenstelling van de portefeuille van particuliere versus professionele beleggers en hun trading gedrag (bijvoorbeeld [deze survey](https://www.journals.vu.lt/omee/article/view/22812)). 
+Een belangrijk punt wat bij de post mortems van onder andere Matti en Lucy lijkt vergeten te zijn is het effect dat algoritmisch investeren heeft op de biases en kosten van particuliere beleggers. De afgelopen jaren is er veel empirisch onderzoek verschenen naar de samenstelling van de portefeuille van particuliere versus professionele beleggers en hun trading gedrag (bijvoorbeeld [deze survey](https://www.journals.vu.lt/omee/article/view/22812)). 
 
 ![Roboinvesting](https:\\nonkelfonds.github.io/images/robot-photo-8438918.webp)
 
