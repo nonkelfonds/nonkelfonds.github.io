@@ -11,7 +11,7 @@ Als je het geluk hebt om substantieel discretionair inkomen te hebben - inkomen 
 
 Indien je er toch in slaagt naast deze zaken per maand bijvoorbeeld een paar honderd euro op zij te kunnen zetten voor de langere termijn, dan investeer je die best. Per ons manifesto is kapitalisme een spel van het ruilen van 100 euro voor 5-10 euro per jaar wat aangroeit tot iets zeer aanzienlijk overheen de tijd mits een geloof in de productiviteit en innovatievermogen van mensen. Dit principe erkennen in je vroege of mid-twintiger jaren heeft gigantische gevolgen voor je financiële situatie in je late dertiger jaren, vroege veertig, maar natuurlijk ook daarna.
 
-![Up](https:\\nonkelfonds.github.io/images/567912021913413.png)
+![Up](https:\\nonkelfonds.github.io/images/567915296366277.png)
 
 Echter die groei komt niet vanzelf, je moet durven slim beleggen. Dit wil zeggen niet al je discretionair inkomen laten oppotten in cash of laten rotten op een spaarrekening die minder opbrengt dan de inflatie of stijging van de algemene levensduurte. Op lange termijn geeft cash je 0% - dit was dus een vrij onverstandige move van Carl & Ellie in de Pixar film Up, sparen 2%, overheidsobligaties 3%, bedrijfsobligaties 4-5%, aandelenkorf in de praktijk 6-10% (dit t.a.v. obligaties is de befaamde risicopremie, maar reken je nooit rijk in Excel met meer dan 7%). Zoals gezegd, als je het geld binnen de paar jaar nodig hebt en die je levenskeuzes zoals een grote trouw, een woning e.d.m. zouden beïnvloeden, blijf dan vooral weg van aandelen en kijk naar de spaarmarkt. Indien je toch een potje kunt sparen voor de langere termijn: ga voor aandelen.
 
