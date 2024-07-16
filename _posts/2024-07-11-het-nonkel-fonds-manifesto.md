@@ -8,6 +8,8 @@ author_staff_member: emiel
 
 Het Nonkel Fonds Manifesto: onze kernwaarden in 3 simpele regels.
 
+![Platform](https:\\nonkelfonds.github.io/images/inzicht-strategie.png)
+
 ### Regel 1
 
 We verschaffen gratis informatie die mensen moet doen kritisch nadenken over investeren versus je spaargeld in cash aanhouden; over sparen, aandelen, fondsen versus combinaties van ETFs. Dit is geen beleggingsadvies (koop nu dit, en doe nu dat), maar informatie verschaffen. Vergeet nooit: eerst (1) informatie, dan (2) inzicht, dan pas (3) actie. Blind overgaan tot actie op basis van informatie zonder zelf inzicht te hebben is onverantwoord en financiële kamikaze. 
