@@ -7,9 +7,9 @@ author_staff_member: emiel
 ---
 
 
-We hebben in vorige posts besproken dat het essentieel is geinvesteerd te blijven en niet te proberen de markt te timen. Dit is een van de redenen waarom retailinvesteerders het slechter doen dan een brede index. Hun drawdowns - of top-to-bottom verliezen - triggeren emoties die zeer menselijk zijn maar zeer nefast voor de beleggingsstrategie. 
+In vorige posts besproken we dat het essentieel is om geinvesteerd te blijven en niet te proberen de markt te timen. Dit is één van de redenen waarom retailinvesteerders het vaak slechter doen dan een brede index. Hun drawdowns - of top-to-bottom verliezen - triggeren emoties die zeer herkenbaar menselijk zijn maar uitermate nefast voor de kansen van hun beleggingsstrategie. 
 
-Men twijfelt over de keuzes of, in het geval van crashes, geraakt men soms simpelweg in paniek waardoor de retailinvesteerder uitstapt en zijn langetermijn rendement nooit kan verzilveren.
+Men twijfelt dan over gemaakte keuzes of voelt simpelweg paniek bij grote correcties en crashes, waardoor de retailinvesteerder uitstapt en zijn langetermijn rendement nooit kan verzilveren.
 
 ![Grand Central](https:\\nonkelfonds.github.io/images/grand-central-photo-5824845.jpeg)
 
@@ -17,14 +17,14 @@ Een zéér belangrijke stap vooraleer te investeren in risicoactiva, zoals we ee
 
 Waaraan moet ik mij verwachten? 
 
-Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... - of demografische redenen - zoals de Japanse Lost Decade - hiervoor te kennen. Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
+Eveneens is het nuttig de macro-economische (inflatie, schuldcrisis, oorlog,...) of demografische redenen (zoals de vooruitlopende Japanse vergrijzing en boom en bust van hun Lost Decade) hiervoor te kennen. Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiële markten sinds de Tulpengekte in Amsterdam in 1637, vaak aangehaald als de moeder van alle bubbels en marktimplosies.
 
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #f0f0f0;">
-      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Datum</strong></th>
-      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Overzicht</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Jaartal</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Omschrijving</strong></th>
       <th style="border: 1px solid #ddd; padding: 8px;"><strong>Diepte van de drawdown</strong></th>
       <th style="border: 1px solid #ddd; padding: 8px;"><strong>Duur van de drawdown</strong></th>
     </tr>
@@ -32,7 +32,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
   <tbody>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1637</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Tulpomania: Nederlandse tulpenmarktbel bubble barstte.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Tulpomania: Nederlandse tulpenmarktbubble barstte.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 99% (in tulpenprijzen)</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Nooit hersteld</td>
     </tr>
@@ -98,7 +98,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1987</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Zwarte Maandag: Aandelenmarkt crash door algoritmic trading.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Zwarte Maandag: Aandelenmarkt crash door algorithmic trading.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 30% wereldwijd (Dow Jones)</td>
       <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (1987-1989)</td>
     </tr>
@@ -136,7 +136,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>2020</strong></td>
       <td style="border: 1px solid #ddd; padding: 8px;">COVID-19-pandemie: Wereldwijde economische stilleggingen.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 30% in wereldwijde aandelenmarkten</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Snel herstel door stimulering (enkele maanden)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Snel herstel door fiscale en monetaire stimuli (enkele maanden durende "V-shape" recovery)</td>
     </tr>
   </tbody>
 </table>
