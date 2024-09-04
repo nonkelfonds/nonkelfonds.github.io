@@ -34,7 +34,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1637</strong></td>
       <td style="border: 1px solid #ddd; padding: 8px;">Tulpomania: Nederlandse tulpenmarktbel bubble barstte.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 99% (in tulpenprijzen)</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Directe ineenstorting in weken</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Nooit hersteld</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1797</strong></td>
@@ -92,9 +92,9 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1980s</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Japanse activabubbel en Verloren Decennium.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Japanse activabubbel en Lost Decade.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">82% in Nikkei 225</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Doorlopend, decennia lang</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">35 jaar (1989-2024)</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1987</strong></td>
