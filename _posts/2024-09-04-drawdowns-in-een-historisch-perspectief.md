@@ -25,14 +25,14 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
     <tr style="background-color: #f0f0f0;">
       <th style="border: 1px solid #ddd; padding: 8px;"><strong>Datum</strong></th>
       <th style="border: 1px solid #ddd; padding: 8px;"><strong>Overzicht</strong></th>
-      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Diepte van de daling</strong></th>
-      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Duur van de daling</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Diepte van de drawdown</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Duur van de drawdown</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1637</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Tulpomania: Nederlandse tulpenmarktbel bubble barstte.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 99% (in tulpenprijzen)</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Directe ineenstorting in weken</td>
     </tr>
@@ -98,7 +98,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>1987</strong></td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Zwarte Maandag: Aandelenmarkt crash door program trading.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Zwarte Maandag: Aandelenmarkt crash door algoritmic trading.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 30% wereldwijd (Dow Jones)</td>
       <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (1987-1989)</td>
     </tr>
@@ -136,7 +136,7 @@ Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... 
       <td style="border: 1px solid #ddd; padding: 8px;"><strong>2020</strong></td>
       <td style="border: 1px solid #ddd; padding: 8px;">COVID-19-pandemie: Wereldwijde economische stilleggingen.</td>
       <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 30% in wereldwijde aandelenmarkten</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Snel herstel door stimulering (maanden)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Snel herstel door stimulering (enkele maanden)</td>
     </tr>
   </tbody>
 </table>
