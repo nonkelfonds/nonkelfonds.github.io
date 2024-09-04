@@ -17,133 +17,131 @@ Een zéér belangrijke stap vooraleer te investeren in risicoactiva, zoals we ee
 
 Waaraan moet ik mij verwachten? 
 
-Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... - of demografische redenen - zoals de Japanse Lost Decade - hiervoor te kennen.
-
-Anno 2024 is ChatGPT is een uitstekende kenner van onze financiele geschiedenis. 
-
-Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
+Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... - of demografische redenen - zoals de Japanse Lost Decade - hiervoor te kennen. Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <thead>
-    <tr>
-      <th><strong>Datum</strong></th>
-      <th><strong>Overzicht</strong></th>
-      <th><strong>Diepte van de daling</strong></th>
-      <th><strong>Duur van de daling</strong></th>
+    <tr style="background-color: #f0f0f0;">
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Datum</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Overzicht</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Diepte van de daling</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px;"><strong>Duur van de daling</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>1637</strong></td>
-      <td>Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.</td>
-      <td>Meer dan 99% (in tulpenprijzen)</td>
-      <td>Directe ineenstorting in weken</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1637</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 99% (in tulpenprijzen)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Directe ineenstorting in weken</td>
     </tr>
     <tr>
-      <td><strong>1797</strong></td>
-      <td>Paniek van 1797: Bankencrisis door Napoleontische Oorlogen en vastgoedzeepbel.</td>
-      <td>Tot 75% in Amerikaanse aandelen</td>
-      <td>2 jaar (1797-1799)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1797</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1797: Bankencrisis door Napoleontische Oorlogen en vastgoedzeepbel.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Tot 75% in Amerikaanse aandelen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (1797-1799)</td>
     </tr>
     <tr>
-      <td><strong>1819</strong></td>
-      <td>Paniek van 1819: Eerste grote financiële crisis in de VS na de naoorlogse boom.</td>
-      <td>Ongeveer 50% in Amerikaanse markten</td>
-      <td>3 jaar (1819-1822)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1819</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1819: Eerste grote financiële crisis in de VS na de naoorlogse boom.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 50% in Amerikaanse markten</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">3 jaar (1819-1822)</td>
     </tr>
     <tr>
-      <td><strong>1837</strong></td>
-      <td>Paniek van 1837: Instorting van Amerikaanse banken en vastgoedmarkt.</td>
-      <td>50-60% in Amerikaanse activa</td>
-      <td>5 jaar (1837-1842)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1837</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1837: Instorting van Amerikaanse banken en vastgoedmarkt.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">50-60% in Amerikaanse activa</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">5 jaar (1837-1842)</td>
     </tr>
     <tr>
-      <td><strong>1857</strong></td>
-      <td>Paniek van 1857: Wereldwijde neergang door bank- en spoorwegfaillissementen in de VS.</td>
-      <td>Ongeveer 50% in Amerikaanse aandelen</td>
-      <td>2 jaar (1857-1859)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1857</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1857: Wereldwijde neergang door bank- en spoorwegfaillissementen in de VS.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 50% in Amerikaanse aandelen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (1857-1859)</td>
     </tr>
     <tr>
-      <td><strong>1884</strong></td>
-      <td>Paniek van 1884: Bankencrisis in de VS door faillissementen van makelaars.</td>
-      <td>15-20% in Amerikaanse aandelenmarkten</td>
-      <td>1-2 jaar (1884-1886)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1884</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1884: Bankencrisis in de VS door faillissementen van makelaars.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">15-20% in Amerikaanse aandelenmarkten</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1-2 jaar (1884-1886)</td>
     </tr>
     <tr>
-      <td><strong>1901</strong></td>
-      <td>Paniek van 1901: Aandelenmarktslag om de Northern Pacific Railway.</td>
-      <td>46% in Amerikaanse aandelenmarkt</td>
-      <td>Ongeveer 1 jaar (1901-1902)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1901</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1901: Aandelenmarktslag om de Northern Pacific Railway.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">46% in Amerikaanse aandelenmarkt</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 1 jaar (1901-1902)</td>
     </tr>
     <tr>
-      <td><strong>1907</strong></td>
-      <td>Paniek van 1907: Liquiditeitscrisis bij banken en trusts in New York.</td>
-      <td>Ongeveer 50% in Amerikaanse aandelenmarkt</td>
-      <td>1 jaar (1907-1908)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1907</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Paniek van 1907: Liquiditeitscrisis bij banken en trusts in New York.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 50% in Amerikaanse aandelenmarkt</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1 jaar (1907-1908)</td>
     </tr>
     <tr>
-      <td><strong>1929</strong></td>
-      <td>Grote Depressie: Wall Street Crash leidde tot wereldwijde depressie.</td>
-      <td>89% in Amerikaanse aandelen (Dow Jones)</td>
-      <td>25 jaar (1929-1954)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1929</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Grote Depressie: Wall Street Crash leidde tot wereldwijde depressie.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">89% in Amerikaanse aandelen (Dow Jones)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">25 jaar (1929-1954)</td>
     </tr>
     <tr>
-      <td><strong>1973-74</strong></td>
-      <td>Oliecrisis en stagflatie.</td>
-      <td>45% in Amerikaanse aandelen</td>
-      <td>Enkele jaren (1973-1976)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1973-74</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Oliecrisis en stagflatie.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">45% in Amerikaanse aandelen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Enkele jaren (1973-1976)</td>
     </tr>
     <tr>
-      <td><strong>1980s</strong></td>
-      <td>Japanse activabubbel en Verloren Decennium.</td>
-      <td>82% in Nikkei 225</td>
-      <td>Doorlopend, decennia lang</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1980s</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Japanse activabubbel en Verloren Decennium.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">82% in Nikkei 225</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Doorlopend, decennia lang</td>
     </tr>
     <tr>
-      <td><strong>1987</strong></td>
-      <td>Zwarte Maandag: Aandelenmarkt crash door program trading.</td>
-      <td>Ongeveer 30% wereldwijd (Dow Jones)</td>
-      <td>2 jaar (1987-1989)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1987</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Zwarte Maandag: Aandelenmarkt crash door program trading.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 30% wereldwijd (Dow Jones)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (1987-1989)</td>
     </tr>
     <tr>
-      <td><strong>1997</strong></td>
-      <td>Aziatische financiële crisis: Valuta- en aandelenmarkten crashen in Azië.</td>
-      <td>50-70% in getroffen Aziatische markten</td>
-      <td>1-2 jaar (1997-1999)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1997</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Aziatische financiële crisis: Valuta- en aandelenmarkten crashen in Azië.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">50-70% in getroffen Aziatische markten</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">1-2 jaar (1997-1999)</td>
     </tr>
     <tr>
-      <td><strong>1998</strong></td>
-      <td>Russische financiële crisis: Staatsfaillissement en roebel devaluatie.</td>
-      <td>Ongeveer 90% in Russische aandelen</td>
-      <td>Langzaam herstel na 1998</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>1998</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Russische financiële crisis: Staatsfaillissement en roebel devaluatie.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 90% in Russische aandelen</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Langzaam herstel na 1998</td>
     </tr>
     <tr>
-      <td><strong>2000-02</strong></td>
-      <td>Dotcomzeepbel: Tech-aandelenbubbel barstte.</td>
-      <td>Ongeveer 49% in MSCI World Index</td>
-      <td>6,5 jaar (2000-2006)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>2000-02</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Dotcomzeepbel: Tech-aandelenbubbel barstte.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 49% in MSCI World Index</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">6,5 jaar (2000-2006)</td>
     </tr>
     <tr>
-      <td><strong>2007-08</strong></td>
-      <td>Wereldwijde financiële crisis: Instorting van de huizenmarkt en bankencrisis.</td>
-      <td>Ongeveer 57% in MSCI World Index</td>
-      <td>5-6 jaar (2007-2013)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>2007-08</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Wereldwijde financiële crisis: Instorting van de huizenmarkt en bankencrisis.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Ongeveer 57% in MSCI World Index</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">5-6 jaar (2007-2013)</td>
     </tr>
     <tr>
-      <td><strong>2010-12</strong></td>
-      <td>Europese staatsschuldencrisis: Schuldproblemen in Eurozone-landen.</td>
-      <td>29% in STOXX 600</td>
-      <td>2 jaar (2011-2013)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>2010-12</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Europese staatsschuldencrisis: Schuldproblemen in Eurozone-landen.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">29% in STOXX 600</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">2 jaar (2011-2013)</td>
     </tr>
     <tr>
-      <td><strong>2020</strong></td>
-      <td>COVID-19-pandemie: Wereldwijde economische stilleggingen.</td>
-      <td>Meer dan 30% in wereldwijde aandelenmarkten</td>
-      <td>Snel herstel door stimulering (maanden)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>2020</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;">COVID-19-pandemie: Wereldwijde economische stilleggingen.</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Meer dan 30% in wereldwijde aandelenmarkten</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Snel herstel door stimulering (maanden)</td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 Oei, dus voor 7-8% return per jaar riskeren we de helft of meer van ons geld te verliezen? Is die "equity risk premium" plukken en af en toe serieus tegen de muur lopen dan geen slechte tradeoff in vergelijking met voldoening nemen met 4-5% genererende vastrentende effecten per jaar?
