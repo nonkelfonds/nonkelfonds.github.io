@@ -144,14 +144,21 @@ Eveneens is het nuttig de macro-economische (inflatie, schuldcrisis, oorlog,...)
 
 
 
-Oei, dus voor 7-8% return per jaar riskeren we de helft of meer van ons geld te verliezen? Is die "equity risk premium" plukken en af en toe serieus tegen de muur lopen dan geen slechte tradeoff in vergelijking met voldoening nemen met 4-5% genererende vastrentende effecten per jaar?
 
-Het antwoord is opnieuw de wet van samengestelde interest: dY = rYdt. De grootte van je portefeuille groeit proportioneel met de grootte van je portefeuille zelf. Ondanks deze barslechte jaren op de markten stijgt de beurs toch gemiddeld met 7% per jaar, dit wil zeggen inclusief die slechte jaren. 
+Oei, dus voor 7% return per jaar riskeren we de helft of meer van ons geld te verliezen? Is dit wel efficiënt? Biedt die "equity risk premium" die we willen plukken dan geen slechte tradeoff met de risicos, in vergelijking met voldoening te nemen met 3-4% per jaar genererende vastrentende effecten die amper drawdowns kennen?
 
-De meest spectaculaire drawdown is de grafiek die het verschil vergelijkt tussen iemand  die over een lange periode in cash zat versus geinvesteerd was. Bijvoorbeeld, als je 100 euro in cash aanhoudt over 10 jaar waarbij de beurs je 7% had gegeven, dan kan die beurs onderweg eens 20% verloren hebben, je relatieve drawdown is 100% t.o.v. iemand die belegd had en zijn geld verdubbeld heeft over die periode. Die zal misschien jaren van 20% verlies en jaren van 20% stijging afgewisseld hebben, maar als hij niet uitgestapt is werd die beloond voor het uitzitten van de volatiele rit. 
+Het antwoord is opnieuw de wet van samengestelde interest: dY = rYdt. De grootte van je portefeuille groeit proportioneel met de grootte van je portefeuille zelf. Ondanks barslechte jaren op de markten stijgt de beurs toch gemiddeld met 7% per jaar, dit wil zeggen inclusief de slechte jaren. 
 
-Een ander belangrijk punt is dat deze drawdowns "top-to-bottom" zijn, oftewel worst case. Weinigen hebben exact op de top gekocht en in het dal gepanikeerd en verkocht. "It ain't real until it's realized." Als je niet panikeert valt die drawdown vaak mee t.o.v. de maximale drawdown en als je bijkoopt in het dal - bv. met dollar cost averaging - kan je zelf tijdens moeilijke periodes een deftige gemiddelde return behalen.
+De meest spectaculaire drawdown die je moet conceptualiseren is de grafiek die het verschil vergelijkt tussen een lange periode in cash zitten versus geinvesteerd zijn, m.a.w. de drawdown van je opportuniteitskost over de tijd. Bijvoorbeeld, als je 100 euro in cash aanhoudt over 10 jaar waarbij de beurs je 7% p.a. presteert, dan kan die beurs onderweg eens 20% verloren hebben, maar is dat irrelevant t.a.v. de relatieve drawdown van 100% t.o.v. iemand die belegd had en zijn geld verdubbeld heeft over die periode. Die zal misschien jaren van 20% verlies en jaren van 20% stijging afgewisseld hebben, maar als hij niet uitgestapt is werd die beloond voor het uitzitten van de volatiele rit. 
 
-Wat moeten we nu met deze tabel? Het allerbelangrijkste is weten hoelang je kunt belegd blijven, zodat je nooit tijdens een volgende financieel dramatische episode verplicht moet uitstappen en het verlies móet incasseren, terwijl je op dat moment misschien net niet panikeert. Weten dat die verliezen er bij horen maar gewoon een "slechte timing" kennen en moeten liquideren is zeer pijnlijk en moet ten allen tijde vermeden worden. 
+Een ander belangrijk punt is dat deze drawdowns "top-to-bottom" zijn, oftewel worst case. Weinigen hebben exact op de top gekocht en in het dal gepanikeerd en verkocht. "It ain't real until it's realized." Als je niet panikeert valt die drawdown vaak mee t.o.v. de maximale drawdown en als je bijkoopt in het dal - bv. met "dollar cost averaging" - kan je zelf tijdens moeilijke periodes een deftige gemiddelde return behalen.
 
-Tenslotte is er een belangrijk principe dat dient gerespecteerd te worden. Pas deze drawdowns (bv. 50%) eens toe op je portefeuille. Verandert er iets fundamenteel aan je levensstijl? Je werk, woning, en zo voort. Neen? Go ahead. Ja? Doe het niet en kijk naar de spaarmarkt. Kunnen leven met een worst case scenario is een belangrijke voorwaarde voor je kunt beginnen met investeren.
+Wat moeten we nu met deze tabel? 
+
+Het allerbelangrijkste is weten hoelang je kunt belegd blijven, zodat je nooit tijdens een mogelijks volgende dramatische marktepisode verplicht moet uitstappen en het verlies móet incasseren, terwijl je op dat moment misschien net niet panikeert. Weten dat die verliezen er bij horen maar gewoon een "slechte timing" kennen en moeten liquideren is zeer pijnlijk en moet natuurlijk ten allen tijde vermeden worden. 
+
+Tenslotte is er een belangrijk principe dat dient gerespecteerd te worden. 
+
+> Pas deze drawdowns (bv. 50%) eens toe op je portefeuille. Verandert er iets fundamenteel aan je levensstijl? Je werk, woning, aankopen, vrije tijd uitgaven en zo voort. Neen? Go ahead. Ja? Doe het niet en kijk naar de spaarmarkt. 
+
+Kunnen leven met een worst case scenario is een belangrijke voorwaarde voor je kunt beginnen met investeren.
