@@ -17,14 +17,14 @@ Een zéér belangrijke stap vooraleer te investeren in risicoactiva, zoals we ee
 
 Waaraan moet ik mij verwachten? 
 
-Eveneens is het nuttige de macro-economische (inflatie, schuldcrisis,oorlog,...) of demografische redenen (Japanse Lost Decade) hiervoor.
+Eveneens is het nuttig de macro-economische - inflatie, schuldcrisis,oorlog,... - of demografische redenen - zoals de Japanse Lost Decade - hiervoor te kennen.
 
 Anno 2024 is ChatGPT is een uitstekende kenner van onze financiele geschiedenis. 
 
 Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
 
 
-| **Datum**   | **Overzicht**                                                          | **Diepte van de daling**          | **Duur van de daling**             |
+| **Datum**   | **Overzicht**                                                          | **Diepte van de drawdowns**          | **Duur van de drawdowns**             |
 |-------------|------------------------------------------------------------------------|-----------------------------------|------------------------------------|
 | **1637**    | Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.                | Meer dan 99% (in tulpenprijzen)   | Directe ineenstorting in weken     |
 | **1797**    | Paniek van 1797: Bankencrisis door Napoleontische Oorlogen en vastgoedzeepbel. | Tot 75% in Amerikaanse aandelen  | 2 jaar (1797-1799)                 |
