@@ -7,7 +7,7 @@ author_staff_member: emiel
 ---
 
 
-In vorige posts besproken we dat het essentieel is om geinvesteerd te blijven en niet te proberen de markt te timen. Dit is één van de redenen waarom retailinvesteerders het vaak slechter doen dan een brede index. Hun drawdowns - of top-to-bottom verliezen - triggeren emoties die zeer herkenbaar menselijk zijn maar uitermate nefast voor de kansen van hun beleggingsstrategie. 
+In vorige posts bespraken we dat het essentieel is om geinvesteerd te blijven en niet te proberen de markt te timen. Dit is één van de redenen waarom retailinvesteerders het vaak slechter doen dan een brede index. Hun drawdowns - of top-to-bottom verliezen - triggeren emoties die zeer herkenbaar menselijk zijn maar uitermate nefast voor de kansen van hun beleggingsstrategie. 
 
 Men twijfelt dan over gemaakte keuzes of voelt simpelweg paniek bij grote correcties en crashes, waardoor de retailinvesteerder uitstapt en zijn langetermijn rendement nooit kan verzilveren.
 
