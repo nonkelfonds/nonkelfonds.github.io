@@ -1,23 +1,32 @@
 ---
-date: 2024-09-04
-title: Drawdowns in een historisch perspectief, heb jij er de maag voor?
+date: 2024-09-03
+title: Drawdowns, een historisch overzicht
 categories:
-  - Risk
+  - Risico, drawdowns, belang beleggingshorizon
 author_staff_member: emiel
 ---
 
 
-We hebben in vorige artikels besproken dat het belangrijk is geinvesteerd te zijn en niet de markt te proberen timen. Dit is een van de redenen waarom retail investeerders het slechter doen dan de brede index: drawdowns - top-to-bottom verliezen - triggeren menselijke emoties zoals twijfel over eerdere investeringsbeslissingen of in het geval van crashes simpelweg paniek, waardoor de retail investeerder uitstapt en zijn langetermijn rendement nooit kan materialiseren.
+We hebben in vorige posts besproken dat het essentieel is geinvesteerd te blijven en niet te proberen de markt te timen. Dit is een van de redenen waarom retailinvesteerders het slechter doen dan een brede index. Hun drawdowns - of top-to-bottom verliezen - triggeren emoties die zeer menselijk zijn maar zeer nefast voor de beleggingsstrategie. 
 
-Een zéér belangrijke stap vooraleer te investeren in risicoactiva, zoals we eerder al benadrukten, is weten wanneer je het geld nodig zult hebben. In principe is het dan een afweging tussen risicopremies plukken en tijdelijke drawdowns kunnen overbruggen. Instrumenteel in deze stap is het kennen van historische drawdowns en hun herstelperiodes, eveneens de macro-economische (inflatie, schuldcrisis,oorlog,...) of demografische redenen (Japanse Lost Decade) hiervoor.
+Men twijfelt over de keuzes of, in het geval van crashes, geraakt men soms simpelweg in paniek waardoor de retail investeerder uitstapt en zijn langetermijn rendement nooit kan verzilveren.
 
 ![Grand Central](https:\\nonkelfonds.github.io/images/grand-central-photo-5824845.jpeg)
 
-ChatGPT is een uitstekende kenner van financiele geschiedenis. Hieronder zie je de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
+Een zéér belangrijke stap vooraleer te investeren in risicoactiva, zoals we eerder al benadrukten, is weten wanneer je het geld nodig zult hebben. In principe is het dan een vrij rechtlijnige afweging tussen de risicopremies plukken van een gediversifieerde aandelenportefeuille en de tijdelijke drawdowns kunnen overbruggen. Instrumenteel in die stap is het kennen van historische drawdowns en hun herstelperiodes. 
 
-| **Datum**   | **Overzicht**                                                          | **Diepte van de drawdown**          | **Duur van de drawdown**             |
+Waaraan moet ik mij verwachten? 
+
+Eveneens is het nuttige de macro-economische (inflatie, schuldcrisis,oorlog,...) of demografische redenen (Japanse Lost Decade) hiervoor.
+
+Anno 2024 is ChatGPT is een uitstekende kenner van onze financiele geschiedenis. 
+
+Hieronder vind je een nuttig overzicht van de belangrijkste historische drawdowns op financiele markten sinds de Tulpengekte in Amsterdam in 1637.
+
+
+| **Datum**   | **Overzicht**                                                          | **Diepte van de daling**          | **Duur van de daling**             |
 |-------------|------------------------------------------------------------------------|-----------------------------------|------------------------------------|
-| **1637**    | Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.                | Meer dan 99% (in tulpenprijzen)   | Nooit hersteld     |
+| **1637**    | Tulpenmanie: Nederlandse tulpenmarktbel bubble barstte.                | Meer dan 99% (in tulpenprijzen)   | Directe ineenstorting in weken     |
 | **1797**    | Paniek van 1797: Bankencrisis door Napoleontische Oorlogen en vastgoedzeepbel. | Tot 75% in Amerikaanse aandelen  | 2 jaar (1797-1799)                 |
 | **1819**    | Paniek van 1819: Eerste grote financiële crisis in de VS na de naoorlogse boom. | Ongeveer 50% in Amerikaanse markten | 3 jaar (1819-1822)                |
 | **1837**    | Paniek van 1837: Instorting van Amerikaanse banken en vastgoedmarkt.   | 50-60% in Amerikaanse activa      | 5 jaar (1837-1842)                 |
@@ -37,10 +46,14 @@ ChatGPT is een uitstekende kenner van financiele geschiedenis. Hieronder zie je 
 | **2020**    | COVID-19-pandemie: Wereldwijde economische stilleggingen.              | Meer dan 30% in wereldwijde aandelenmarkten | Snel herstel door stimulering (maanden) |
 
 
-Oei, dus voor 7-8% return per jaar riskeren we de helft van ons geld te verliezen? Is die equity risk premium plukken, maar met onderweg dus af en toe serieus tegen de muur te lopen, dan geen slechte tradeoff in vergelijking met voldoening nemen met 4-5% genererende vastrentende effecten per jaar?
+Oei, dus voor 7-8% return per jaar riskeren we de helft of meer van ons geld te verliezen? Is die "equity risk premium" plukken en af en toe serieus tegen de muur lopen dan geen slechte tradeoff in vergelijking met voldoening nemen met 4-5% genererende vastrentende effecten per jaar?
 
-Het antwoord is opnieuw de wet van samengestelde interest: dY = rYdt. De grootte van je portefeuille groeit proportioneel met de grootte van je portefeuille zelf. Ondanks deze barsslechte jaren op financiele markten stijgt de beurs toch gemiddeld met 7% per jaar, dit wil zeggen inclusief die slechte jaren. De meest spectaculaire drawdown deze is de grafiek die het verschil vergelijkt tussen iemand  over een lange periode in cash zat versus geinvesteerd is. Simpel beschouwd, als je 100 euro in cash aanhoudt over 10 jaar waarbij de beurs je 7% geeft, dan kan die beurs onderweg eens 20-30% verloren hebben, je relatieve drawdown is 100% want iemand die belegd had heeft zijn geld verdubbeld over die periode (toegeven met jaren van 20% verlies en jaren van 20 stijging) en die is beloond voor het uitzitten van de volatiele rit. Een andere belangrijk punt is dat deze drawdowns top-to-bottom zijn, worst case. Weinigen hebben exact op de top gekocht en in het dal gepanikeerd en verkocht. "It ain't real untill it's realized." Als je niet panikeert valt die drawdown vaak mee t.a.v. de maximale drawdown en als je bijkoopt in het dal (bv. dollar cost averaging) kan je zelf tijdens moeilijke periodes gemiddeld een deftige return halen.
+Het antwoord is opnieuw de wet van samengestelde interest: dY = rYdt. De grootte van je portefeuille groeit proportioneel met de grootte van je portefeuille zelf. Ondanks deze barslechte jaren op de markten stijgt de beurs toch gemiddeld met 7% per jaar, dit wil zeggen inclusief die slechte jaren. 
 
-Wat moeten we nu met deze tabel? Het allerbelangrijkste is weten hoelang je kunt belegd blijven, zodat je nooit tijdens een volgende financieel dramatische episode verplicht moet uitstappen en het verlies moet incasseren terwijl je misschien niet panikeert en weet dat die verliezen er bij horen maar gewoon "slechte timing". Dit moet ten allen tijde vermeden worden. 
+De meest spectaculaire drawdown is de grafiek die het verschil vergelijkt tussen iemand  die over een lange periode in cash zat versus geinvesteerd was. Simpel beschouwd, als je 100 euro in cash aanhoudt over 10 jaar waarbij de beurs je 7% geeft, dan kan die beurs onderweg eens 20-30% verloren hebben, je relatieve drawdown is 100% t.o.v. iemand die belegd had en zijn geld verdubbeld heeft over die periode. Die zal misschien jaren van 20% verlies en jaren van 20 stijging afgewisseld hebben, maar als hij niet uitgestapt is werd die beloond voor het uitzitten van de volatiele rit. 
 
-Daarnaast is er een belangrijk principe dat dient gerespecteerd te worden. Pas deze drawdowns (bv. 50%) eens toe op je portefeuille. Verandert er iets fundamenteel aan je levensstijl? Neen? Go ahead. Ja? Doe het niet. Kunnen leven met een worst case scenario is een belangrijke voorwaarde voor je kunt beginnen met investeren.
+Een ander belangrijk punt is dat deze drawdowns "top-to-bottom" zijn, oftewel worst case. Weinigen hebben exact op de top gekocht en in het dal gepanikeerd en verkocht. "It ain't real untill it's realized." Als je niet panikeert valt die drawdown vaak mee t.a.v. de maximale drawdown en als je bijkoopt in het dal - bv. met dollar cost averaging - kan je zelf tijdens moeilijke periodes een deftige gemiddelde return behalen.
+
+Wat moeten we nu met deze tabel? Het allerbelangrijkste is weten hoelang je kunt belegd blijven, zodat je nooit tijdens een volgende financieel dramatische episode verplicht moet uitstappen en het verlies móet incasseren, terwijl je op dat moment misschien net niet panikeert. Weten dat die verliezen er bij horen maar gewoon een "slechte timing" kennen en moeten liquideren is zeer pijnlijk en moet ten allen tijde vermeden worden. 
+
+Tenslotte is er een belangrijk principe dat dient gerespecteerd te worden. Pas deze drawdowns (bv. 50%) eens toe op je portefeuille. Verandert er iets fundamenteel aan je levensstijl? Je werk, woning, en zo voort. Neen? Go ahead. Ja? Doe het niet. Kunnen leven met een worst case scenario is een belangrijke voorwaarde voor je kunt beginnen met investeren.

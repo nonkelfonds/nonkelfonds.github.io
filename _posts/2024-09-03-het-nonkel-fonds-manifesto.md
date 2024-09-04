@@ -1,6 +1,6 @@
 ---
-date: 2024-07-11
-title: Het Nonkel Fonds Manifesto
+date: 2024-09-04
+title: Het Nonkel Fonds Manifest
 categories:
   - Manifesto
 author_staff_member: emiel
